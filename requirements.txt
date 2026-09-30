@@ -1,0 +1,6 @@
+anthropic>=1.6.0
+fastapi
+pydantic
+pytest
+python-dotenv
+uvicorn[standard]

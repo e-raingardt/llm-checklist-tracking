@@ -1,0 +1,29 @@
+Message-ID: <msg-004@demo.local>
+From: Maria Schmidt <m.schmidt@example-demo.com>
+To: Nordbank Loan Team <loans@nordbank-demo.com>
+Subject: Re: Your loan application - rental agreement
+Date: Wed, 04 Mar 2026 12:05:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1098720584190892066=="
+
+--===============1098720584190892066==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+attached is my current rental agreement. I still need to request the
+payslips from my employer and will forward them once I have them.
+
+Best regards
+Maria Schmidt
+
+--===============1098720584190892066==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="rental_agreement_2025.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBEZW1vIGRvY3VtZW50LCBub3QgcmVhbCBjb250ZW50Lgo=
+
+--===============1098720584190892066==--

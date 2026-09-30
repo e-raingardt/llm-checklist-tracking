@@ -1,0 +1,45 @@
+Message-ID: <msg-007@demo.local>
+From: Maria Schmidt <m.schmidt@example-demo.com>
+To: Nordbank Loan Team <loans@nordbank-demo.com>
+Subject: Re: Your loan application - payslips
+Date: Fri, 06 Mar 2026 09:20:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4789325324694339817=="
+
+--===============4789325324694339817==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+attached are my payslips for December, January and February.
+That should complete the file.
+
+Best regards
+Maria Schmidt
+
+--===============4789325324694339817==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="payslip_12.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBEZW1vIGRvY3VtZW50LCBub3QgcmVhbCBjb250ZW50Lgo=
+
+--===============4789325324694339817==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="payslip_01.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBEZW1vIGRvY3VtZW50LCBub3QgcmVhbCBjb250ZW50Lgo=
+
+--===============4789325324694339817==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="payslip_02.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBEZW1vIGRvY3VtZW50LCBub3QgcmVhbCBjb250ZW50Lgo=
+
+--===============4789325324694339817==--

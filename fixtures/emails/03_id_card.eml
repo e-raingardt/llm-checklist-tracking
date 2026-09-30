@@ -1,0 +1,28 @@
+Message-ID: <msg-003@demo.local>
+From: Maria Schmidt <m.schmidt@example-demo.com>
+To: Nordbank Loan Team <loans@nordbank-demo.com>
+Subject: Re: Your loan application - ID card
+Date: Tue, 03 Mar 2026 08:12:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7078507915747421476=="
+
+--===============7078507915747421476==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Good morning,
+
+please find attached a copy of my ID card, as promised.
+
+Best regards
+Maria Schmidt
+
+--===============7078507915747421476==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="id_card_schmidt.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBEZW1vIGRvY3VtZW50LCBub3QgcmVhbCBjb250ZW50Lgo=
+
+--===============7078507915747421476==--

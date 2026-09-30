@@ -1,0 +1,28 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime data and generated caches
+*.db
+checklist.json
+fixtures/cache/
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+.pnpm-store/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,21 @@
+Message-ID: <msg-001@demo.local>
+From: Nordbank Loan Team <loans@nordbank-demo.com>
+To: Maria Schmidt <m.schmidt@example-demo.com>
+Subject: Your loan application - documents required
+Date: Mon, 02 Mar 2026 09:14:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear Ms Schmidt,
+
+thank you for your loan application. Before we can start the assessment,
+we need the following documents from you:
+
+- a copy of your ID card
+- your payslips for the last three months
+- your current rental agreement
+- bank statements for the last three months
+
+Kind regards
+Nordbank Loan Team
